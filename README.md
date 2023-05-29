@@ -16,4 +16,4 @@ Here is only a index to other pages. Each pages are named with a 8-charts-long n
    
    Describe 和角公式，和差角公式，倍角公式和半角公式
    
-   Redirect [/c6fe3ad9/README.md](Click Here])
+   Redirect [Click Here](/c6fe3ad9/README.md)
